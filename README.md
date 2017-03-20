@@ -5,7 +5,10 @@
 [![NPM](https://nodei.co/npm/angular-modal-gallery.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/angular-modal-gallery/)    [![NPM](https://nodei.co/npm-dl/angular-modal-gallery.png?months=9&height=3)](https://nodei.co/npm/angular-modal-gallery/)
 
 <br>
+
 # Angular modal gallery
+
+<br>
 
 ![angular-modal-gallery image](https://cloud.githubusercontent.com/assets/6057207/24118289/8ade6952-0dad-11e7-829f-416a24891ce0.png)
 
